@@ -120,6 +120,13 @@ br {
     }
 }
 
+/* Create Browser Specific CSS */
+/* @media screen and (-webkit-min-device-pixel-ratio:0) and (min-resolution:.001dpcm) {
+    .promo__title {
+        font-size: 20px;
+    }
+} */
+
 .promo__subtitle {
     margin-top: 124px;
     color: var(--light-color, #F5F5F7);
